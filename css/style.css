@@ -70,7 +70,9 @@ img {
 	flex-direction: column;
 	align-items: center;
 }
-
+/* .column > .meal1 {
+    background-image: url();
+} */
 /* Footer Styles */
 
 .footer {
