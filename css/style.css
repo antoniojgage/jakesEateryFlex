@@ -70,8 +70,7 @@ img {
 .meal2,
 .meal3 {
 	margin-top: 10px;
-	width: 350px;
-	background-repeat: no-repeat;
+	width: 400px;
 	padding-top: 100px; /* (shorthand)padding: top right bottom left*/
 }
 
@@ -89,10 +88,21 @@ img {
 
 .text {
 	background-color: rgb(48, 48, 48);
-	opacity: 0.6;
+	opacity: 0.8;
 	color: white;
 }
 
+h1 {
+	padding: 5px 10px;
+	font-weight: bolder;
+}
+
+p {
+	padding: 10px;
+	font-size: 13px;
+	font-weight: lighter;
+	text-align: justify;
+}
 /* Footer Styles */
 
 .footer {
