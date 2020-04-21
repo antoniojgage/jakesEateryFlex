@@ -1,6 +1,14 @@
-html,
+/* html,
 body {
 	margin: 0;
+} */
+* {
+	margin: 0;
+}
+
+html,
+body {
+	height: 100%;
 }
 
 .logo {
@@ -16,6 +24,7 @@ img {
 }
 
 /* Navigation styles */
+
 .nav {
 	display: flex;
 	background-color: black;
@@ -56,4 +65,40 @@ img {
 
 /* Column styles */
 
+.column {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 /* Footer Styles */
+
+.footer {
+	display: flex;
+	justify-content: center;
+	background-color: black;
+	padding: 15px;
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+}
+
+.fb {
+	color: lightblue;
+	padding-right: 40px;
+	text-decoration: transparent;
+	font-size: 14px;
+}
+
+.tw {
+	color: yellow;
+	padding-right: 40px;
+	text-decoration: transparent;
+	font-size: 14px;
+}
+
+.ig {
+	color: red;
+	text-decoration: transparent;
+	font-size: 14px;
+}
