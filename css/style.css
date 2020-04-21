@@ -111,13 +111,8 @@ p {
 	justify-content: center;
 	background-color: black;
 	padding: 15px;
-	/* position: fixed;
-	bottom: 0px; */
 	width: 100%;
 	margin-top: 10px;
-
-	/* test part below*/
-	/* flex-shrink: 0; */
 	position: absolute;
 }
 
