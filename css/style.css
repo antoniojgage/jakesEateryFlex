@@ -72,6 +72,7 @@ img {
 	margin-top: 10px;
 	width: 400px;
 	padding-top: 100px; /* (shorthand)padding: top right bottom left*/
+	/* background-size: auto; */
 }
 
 .meal1 {
@@ -93,8 +94,8 @@ img {
 }
 
 h1 {
-	padding: 5px 10px;
-	font-weight: bolder;
+	padding-left: 10px;
+	color: white;
 }
 
 p {
