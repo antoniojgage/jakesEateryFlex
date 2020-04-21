@@ -72,6 +72,7 @@ img {
 	margin-top: 10px;
 	width: 350px;
 	background-repeat: no-repeat;
+	padding-top: 100px; /* (shorthand)padding: top right bottom left*/
 }
 
 .meal1 {
@@ -87,7 +88,9 @@ img {
 }
 
 .text {
-	padding: 100px 10px 10px 10px; /* (shorthand)padding: top right bottom left*/
+	background-color: rgb(48, 48, 48);
+	opacity: 0.6;
+	color: white;
 }
 
 /* Footer Styles */
