@@ -20,7 +20,7 @@ img {
 
 /* Navigation styles */
 
-.nav {
+nav {
 	display: flex;
 	background-color: black;
 	padding: 10px;
