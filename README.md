@@ -8,5 +8,3 @@ Hey class we're going to do this activity!
 ## Set semantic tags.
 
 ## Change and adjust classes with the CSS
-
-## 
